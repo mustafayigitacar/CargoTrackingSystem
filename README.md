@@ -10,8 +10,3 @@ Aramalar yapmak ve ilgili bilgileri bulmak için en hızlı yollardan birisi old
 # Varsayılan Ayarlar: 
 Programımda varsayılan olarak eklenen bazı adresler bulunmakta bu adresler otomatik olarak program başlangıcında belleğe kaydedilir ve kolay şekilde ilk sorgulamalar, eklemeler için kullanılabilir. Şirketler bu varsayılan adresleri kendi şube adresleri olarak belirleyebilirler.
    Çalışmamda hata gördüğünüz veya daha düzgün yapılandırabileceğim bir yer bulunuyorsa pull request gönderebilirsiniz. Teşekkürler.
-
-
-
-
-
