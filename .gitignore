@@ -1,0 +1,156 @@
+# Build results
+bin/
+obj/
+out/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.userprefs
+*.rsuser
+*.sln.ide
+
+# Mono Auto Generated Files
+test-results/
+TestResults/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+Desktop.ini
+$RECYCLE.BIN/
+
+# Visual Studio Code
+.vscode/
+
+# Rider
+.idea/
+*.sln.iml
+*.ncrunch*
+*.resharper*
+
+# Others
+*.log
+*.vs/
+*.bak
+*.tmp
+*.swp
+*.db
+*.sqlite
+*.mdf
+*.ldf
+*.vssscc
+*.vsscc
+*.cache
+*.pdb
+*.tlog
+*.vspscc
+*.vssscc
+*.scc
+*.orig
+*.rej
+*.sdf
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.dbmdl
+*.dbproj.schemaview
+*.dbproj.user
+*.dbproj
+*.jfm
+*.aps
+*.ncb
+*.opendb
+*.opensdf
+*.sbr
+*.tlh
+*.tli
+*.tmp_proj
+*.tmp
+*.bak
+*.backup
+*.swp
+*.swo
+*.swn
+*.tmp
+*.temp
+*.log
+*.vspscc
+*.vssscc
+*.scc
+*.orig
+*.rej
+*.sdf
+*.cache
+*.pdb
+*.tlog
+*.dbmdl
+*.dbproj.schemaview
+*.dbproj.user
+*.dbproj
+*.jfm
+*.aps
+*.ncb
+*.opendb
+*.opensdf
+*.sbr
+*.tlh
+*.tli
+*.tmp_proj
+*.tmp
+*.bak
+*.backup
+*.swp
+*.swo
+*.swn
+*.tmp
+*.temp
+*.log
+
+# Paket yönetimi
+packages/
+.nuget/
+
+# Local NuGet packages
+*.nupkg
+*.snupkg
+
+# Publish outputs
+publish/
+AppPackages/
+
+# Azure Pipelines
+*.azure-pipelines.yml
+
+# Coverage
+coverage/
+*.coverage
+*.coveragexml
+
+# Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# VS for Mac
+.vscode/
+
+# Backup & temp
+*.bak
+*.tmp
+*.temp
+~$*
+
+# Crash logs
+crash.log
+
+# Others
+*.vs/ 
