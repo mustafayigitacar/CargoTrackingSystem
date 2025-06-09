@@ -83,7 +83,7 @@ Proje, SOLID prensiplerine uygun olarak geliştirilmiştir ve aşağıdaki katma
 
 ## Yeni Gönderi Oluşturma 
 
-
+![Image](https://github.com/user-attachments/assets/c6b24a19-c574-48d0-b4d7-31d8b3b61cfc)
 
 ## Kayıtlı Adres Listeleme
 
